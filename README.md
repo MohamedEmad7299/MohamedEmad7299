@@ -42,7 +42,7 @@
 
 ### 📊 GitHub Stats
 
-![Mohamed Emad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Mohamed Emad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedEmad7299&show_icons=true&theme=radical)
 
 
 <p align="center">
