@@ -34,7 +34,7 @@
 - Contributed to open-source projects and participated in collaborative hackathons.
 
 ### 🌐 Connect with Me
-- **LinkedIn:** [linkedin.com/in/mohamed-emad-450719217]([#](https://www.linkedin.com/in/mohamed-emad-450719217))
+- **LinkedIn:** [linkedin.com/in/mohamed-emad-450719217](https://www.linkedin.com/in/mohamed-emad-450719217)
 - **GitHub:** [github.com/MohamedEmad7299](https://github.com/MohamedEmad7299)
 - **Email:** [mohamedemad199912@gmail.com](mailto:your-email)
 
