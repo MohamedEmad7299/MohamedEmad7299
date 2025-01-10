@@ -40,6 +40,11 @@
 
 ---
 
+### 📊 GitHub Stats
+
+![Mohamed Emad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+
 <p align="center">
   Let's connect and collaborate on exciting projects! 🌟
 </p>
