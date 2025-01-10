@@ -44,6 +44,19 @@
 
 ![Mohamed Emad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedEmad7299&show_icons=true&theme=radical)
 
+### 🛠️ Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedEmad7299&layout=compact&theme=radical)
+
+
+### 🔥 Contribution Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedEmad7299&theme=radical)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=MohamedEmad7299&color=blue)
+
+
 
 <p align="center">
   Let's connect and collaborate on exciting projects! 🌟
