@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Mohamed</h1>
 
 <p align="center">
-  🚀 Software Engineer | Android Developer | Problem Solver
+  🚀 Flutter Developer | Android Developer | Problem Solver
 </p>
 
 ---
