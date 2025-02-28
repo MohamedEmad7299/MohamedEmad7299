@@ -7,27 +7,27 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 **Specialized in Android Development** with a focus on building user-centric, scalable, and efficient mobile applications.
-- 🎯 Passionate about **problem-solving**, **design patterns**, and leveraging **modern Android technologies**.
-- 🌱 Currently exploring **Jetpack Compose** and **Kotlin Multiplatform**.
-- 🏆 Finalist in **[Insert Relevant Competitions]** and actively engaged in the **competitive programming** community.
+- 🔭 **Specialized in Android and Flutter Development** with a focus on building user-centric, scalable, and efficient mobile applications.  
+- 🎯 Passionate about **problem-solving**, **design patterns**, and leveraging **modern Android & Flutter technologies**.  
+- 🌱 Currently exploring **Jetpack Compose**, **Kotlin Multiplatform**, and **Flutter for cross-platform development**.  
+- 🏆 Finalist in **[Insert Relevant Competitions]** and actively engaged in the **competitive programming** community.  
 
 ### 🎓 Education
 - **Bachelor's in Computer Science** from [Minia University] (Graduated: [2023]).
 - Gained a solid foundation in **software engineering principles**, **data structures**, and **algorithms**.
 
 ### 💼 Professional Experience
-- **Android Developer** at [Freelancer.com]  
+- **Flutter / Android Developer** at [mostaql.com]  
   Ensured robust application performance and seamless user experience.
 - **Mentor/Coach** at [ICPC Minya]  
   Taught Android development, Java, Kotlin, and advanced problem-solving techniques to aspiring developers.
 
 ### 🛠️ Tech Stack
-- **Languages:** Kotlin,C++,Python
-- **Frameworks/Tools:** Android Jetpack, Room, Retrofit, Firebase, Coroutines
+- **Languages:** Dart,Kotlin,C++
+- **Frameworks/Tools:** Flutter, Bloc, Sqflite, Android Jetpack, Room, Retrofit, Firebase, Coroutines
 - **Architecture Patterns:** MVVM, MVP
 - **Version Control:** Git, GitHub
-- **UI/UX:** Material Design, Jetpack Compose
+- **UI/UX:** Material Design, Flutter, Jetpack Compose
 
 ### 🏅 Achievements
 - Solved [1000+] problems on platforms like **LeetCode**, **Codeforces**, and **HackerRank**.
