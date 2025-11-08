@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Mohamed</h1>
 
 <p align="center">
-  🚀 Flutter Developer | Android Developer | Problem Solver
+  Mobile Developer ( Android & Flutter )
 </p>
 
 ---
@@ -13,17 +13,11 @@
 - 🏆 Finalist in **[Insert Relevant Competitions]** and actively engaged in the **competitive programming** community.  
 
 ### 🎓 Education
-- **Bachelor's in Computer Science** from [Minia University] (Graduated: [2023]).
+- **Bachelor's in Computer Science** (Graduated: [2023]).
 - Gained a solid foundation in **software engineering principles**, **data structures**, and **algorithms**.
 
-### 💼 Professional Experience
-- **Flutter / Android Developer** at [mostaql.com]  
-  Ensured robust application performance and seamless user experience.
-- **Mentor/Coach** at [ICPC Minya]  
-  Taught Android development, Java, Kotlin, and advanced problem-solving techniques to aspiring developers.
-
 ### 🛠️ Tech Stack
-- **Languages:** Dart,Kotlin,C++
+- **Languages:** Dart,Kotlin,Java
 - **Frameworks/Tools:** Flutter, Bloc, Sqflite, Android Jetpack, Room, Retrofit, Firebase, Coroutines
 - **Architecture Patterns:** MVVM, MVP
 - **Version Control:** Git, GitHub
