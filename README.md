@@ -10,10 +10,10 @@
 - 🔭 **Specialized in Android and Flutter Development** with a focus on building user-centric, scalable, and efficient mobile applications.  
 - 🎯 Passionate about **problem-solving**, **design patterns**, and leveraging **modern Android & Flutter technologies**.  
 - 🌱 Currently exploring **Jetpack Compose**, **Kotlin Multiplatform**, and **Flutter for cross-platform development**.  
-- 🏆 Finalist in **[Insert Relevant Competitions]** and actively engaged in the **competitive programming** community.  
+- 🏆 Finalist in **ECPC** and actively engaged in the **competitive programming** community.  
 
 ### 🎓 Education
-- **Bachelor's in Computer Science** (Graduated: [2023]).
+- **Bachelor's in Computer Science** (Graduated: 2023).
 - Gained a solid foundation in **software engineering principles**, **data structures**, and **algorithms**.
 
 ### 🛠️ Tech Stack
