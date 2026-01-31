@@ -67,24 +67,6 @@
 - Unit Testing, Widget Testing
 - Mocking, Espresso
 
-### 🏅 Achievements & Certifications
-
-- 🥇 **Google Associate Android Developer Certification**
-- 🏆 **Top 5% ranking on Codeforces** (1000+ problems solved)
-- 🥈 **2nd place** in University Programming Competition 2022
-- 📦 Contributed to **3 open-source libraries** with 500+ combined GitHub stars
-- ⭐ Created **E-Commerce Template App** with 2,000+ GitHub stars
-
-### 🚀 Notable Projects
-
-**Open Source Contributions**
-- Contributed to Android/Flutter libraries used in production by 5+ applications
-- Developed custom Jetpack Compose UI components library
-
-**Personal Projects**
-- **E-Commerce Template App**: Full-featured Android template with Firebase backend
-- **Algorithm Visualizer**: Flutter app used by 100+ students for learning
-
 ### 🌐 Connect with Me
 
 <p align="center">
