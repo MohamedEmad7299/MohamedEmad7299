@@ -80,34 +80,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedEmad7299&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Mohamed's GitHub Stats" />
-</p>
-
-### 🛠️ Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedEmad7299&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedEmad7299&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohamedEmad7299&color=blueviolet&style=flat-square" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <strong>Let's build something amazing together! 🚀</strong><br/>
-  Open to collaborating on innovative mobile projects and open-source contributions.
-</p>
