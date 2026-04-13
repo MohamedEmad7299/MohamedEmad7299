@@ -1,42 +1,32 @@
 <h1 align="center">Hi there! 👋 I'm Mohamed Emad</h1>
 <p align="center">
-  <strong>Mobile Developer (Android & Flutter)</strong>
+  <strong>Android Developer | Flutter Developer | Problem Solver</strong>
 </p>
 
 <p align="center">
-  Android & Flutter Developer with 3+ years building production mobile apps for enterprise and e-commerce.<br/>
-  Specialized in ERP-integrated distribution systems and high-performance mobile solutions.<br/>
-  Proven problem-solver with 1000+ competitive programming solutions.
+  Android &Flutter Developer building production mobile apps for enterprise and e-commerce. Specialized in ERP-integrated
+distribution systems and high-performance mobile solutions. Proven problem-solver with 1000+ competitive programming
+solutions on Codeforces, translating algorithmic thinking into optimized, scalable code.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🚀 **3+ years of professional experience** developing scalable mobile applications for Android and iOS
-- 💼 Built applications serving **10,000+ active users** with **99.9% reliability**
-- 🏗️ Expert in **ERP system integration** (Onyx ERP, Onyx IX ERP) supporting **$2M+ monthly transactions**
-- 📈 Delivered performance improvements including **45% crash reduction** and **30% faster load times**
-- 🎯 Specialized in **MVVM architecture**, **state management**, and **clean code principles**
-- 🌱 Currently exploring **Jetpack Compose**, **Kotlin Multiplatform**, and **advanced Flutter patterns**
-- 🏆 **Top 5% on Codeforces** with 1000+ algorithmic problems solved
+Android & Flutter Developer building production-grade mobile applications for enterprise systems and e-commerce platforms. Specialized in ERP-integrated distribution solutions and high-performance mobile apps that support real-world, large-scale operations.
+
+Experienced in working with complex business logic, including order management, inventory systems, subscription workflows, and booking platforms, delivering reliable and scalable solutions aligned with business needs.
+
+Strong foundation in software architecture, applying MVVM and Clean Architecture principles to build maintainable, modular, and efficient codebases. Focused on performance optimization, stability improvements, and delivering smooth user experiences across both modern and legacy systems.
+
+Proven problem-solver with 1000+ competitive programming solutions on Codeforces, leveraging strong algorithmic thinking to design optimized and scalable solutions.
+
+Continuously exploring advanced system design and modern development practices, aiming to build impactful products that solve real-world problems at scale.
 
 ### 💼 Professional Experience
 
-**Android & Flutter Developer** @ Ultimate Solutions *(Jun 2025 - Present)*
+**Android & Flutter Developer** @ Ultimate Solutions *(Jul 2025 - Present)*
 - Maintaining two Android distribution apps serving 200+ field agents
-- Achieved 99.5% system uptime for critical operations
-- Reduced order processing time by 25%
-
-**Flutter Developer** @ Egyptian Armed Forces *(Jan 2024 - Dec 2024)*
-- Built warehouse management app handling 5,000+ daily transactions
-- Reduced manual errors by 60% and improved tracking accuracy to 98%
-- Digitized fax workflow system for 150+ users
-
-**Android Developer** @ Arc *(Jan 2023 - Dec 2023)*
-- Delivered 5 production e-commerce apps serving 10,000+ users
-- Increased checkout conversion rates by 35%
-- Processed 500+ daily orders across multiple retail sectors
 
 ### 🎓 Education
 
@@ -56,16 +46,13 @@
 
 **Architecture & Patterns**
 - MVVM, MVC, MVP, Clean Architecture
-- BLoC, Provider, Riverpod, Cubit
+- BLoC, Riverpod, Cubit
 
 **Tools & Platforms**
+- Claude Code , Cursor , Antigravity , Windsurf
 - Git, GitHub, GitLab
 - Android Studio, Gradle
 - Figma, Postman
-
-**Testing**
-- Unit Testing, Widget Testing
-- Mocking, Espresso
 
 ### 🌐 Connect with Me
 
