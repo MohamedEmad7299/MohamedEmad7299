@@ -1,20 +1,24 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,24&height=220&section=header&text=Mohamed%20Emad&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Senior%20Mobile%20Engineer%20%7C%20Android%20%26%20Flutter&descSize=18&descAlignY=68" width="100%" alt="Mohamed Emad Header"/>
-
-  <!-- Dynamic Typing SVG -->
+  <!-- Native SVG Header (Host in your repo as ./header.svg for 100% uptime & zero broken links) -->
   <a href="https://mohamedemad7299.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Android+%26+Flutter+Enterprise+Mobile+Engineer;1000%2B+Codeforces+Algorithmic+Solutions;ERP-Integrated+Distribution+Systems+(Onyx+ERP);Specialized+in+High-Performance%2C+Crash-Resilient+Apps" alt="Typing SVG" />
+    <img src="./header.svg" width="100%" alt="Mohamed Emad - Senior Mobile Engineer"/>
   </a>
 
+  <!-- Dynamic Typing Title -->
   <p align="center">
-    <strong>Giza, Egypt</strong> &nbsp;•&nbsp; 
-    <strong>Mobile Developer @ Ultimate Solutions</strong> &nbsp;•&nbsp; 
-    <strong>Algorithmic Problem Solver</strong>
+    <a href="https://mohamedemad7299.github.io">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Senior+Mobile+Engineer+%7C+Android+%26+Flutter;ERP-Integrated+Distribution+Systems+(Onyx+ERP);1%2C000%2B+Codeforces+Algorithmic+Solutions;Building+Resilient%2C+High-Throughput+Mobile+Apps" alt="Typing SVG" />
+    </a>
   </p>
 
-  <!-- Status Badges -->
+  <p align="center">
+    <strong>📍 Giza, Egypt</strong> &nbsp;•&nbsp; 
+    <strong>🏢 Mobile Developer @ Ultimate Solutions</strong> &nbsp;•&nbsp; 
+    <strong>🧠 Algorithmic Problem Solver</strong>
+  </p>
+
+  <!-- Connect & Live Profile Badges -->
   <p align="center">
     <a href="https://mohamedemad7299.github.io" target="_blank">
       <img src="https://img.shields.io/badge/Live_Portfolio-mohamedemad7299.github.io-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
