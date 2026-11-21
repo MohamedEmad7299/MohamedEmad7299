@@ -69,6 +69,7 @@ Mobile developer with **3+ years of experience** building Android and Flutter ap
 - Reduced crashes by **30%** and load times by **25%** across two legacy Android distribution apps used by **200+ field agents** through bug triage, memory profiling, and performance optimization.
 - Collaborated on migrating Onyx Distribution from native Android to Flutter.
 - Built a document draft system that saved progress locally so users could resume unfinished documents after reopening the app.
+- Implemented PDF export and Bluetooth thermal printing for sales documents.
 
 #### Flutter Developer — Egyptian Armed Forces
 
