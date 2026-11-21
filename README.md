@@ -41,7 +41,7 @@
 
 ### ⚡ Executive Summary
 
-Senior Mobile Engineer with **3+ years of production experience** architecting and maintaining mission-critical Android and Flutter applications for **enterprise ERP ecosystems and high-volume e-commerce platforms**. Currently full-time at **Ultimate Solutions** maintaining the flagship Onyx ERP field distribution suite handling millions of dollars in monthly volume.
+Mobile Engineer with **3+ years of production experience** architecting and maintaining mission-critical Android and Flutter applications for **enterprise ERP ecosystems and high-volume e-commerce platforms**. Currently full-time at **Ultimate Solutions** maintaining the flagship Onyx ERP field distribution suite handling millions of dollars in monthly volume.
 
 Proven track record of engineering offline-first, crash-resilient architectures for low-connectivity environments and non-flagship devices. Backed by **1,000+ competitive programming solutions on Codeforces**, translating deep algorithmic mastery (dynamic programming, graph theory, time/space complexity optimization) directly into sub-16ms UI rendering, zero main-thread blockage, and robust memory management.
 
