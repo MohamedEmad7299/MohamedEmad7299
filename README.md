@@ -85,6 +85,8 @@ Mobile developer with **3+ years of experience** building Android and Flutter ap
 
 - Delivered **five production-ready Android e-commerce apps** for florists, bakeries, and wholesalers. The apps collectively served **10,000+ active users** and processed **500+ daily orders**.
 - Built shopping cart and order management features that increased checkout conversion by **35%** through shorter load times and a simpler checkout flow.
+- Built product detail screens that displayed pricing, product variants, and stock availability.
+- Built reusable Android components for product listings and navigation across multiple storefronts.
 
 #### Android Developer Intern — The Chance
 
