@@ -89,7 +89,7 @@
     <circle cx="14" cy="13" r="4.5" fill="#22c55e">
       <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
     </circle>
-    <text x="28" y="17" class="badge-text">SENIOR MOBILE ENGINEER</text>
+    <text x="28" y="17" class="badge-text">MOBILE ENGINEER</text>
   </g>
 
   <!-- Location & Company Indicator (Top Right) -->

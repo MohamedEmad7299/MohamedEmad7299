@@ -8,7 +8,7 @@
   <!-- Dynamic Typing Title -->
   <p align="center">
     <a href="https://mohamedemad7299.github.io">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Senior+Mobile+Engineer+%7C+Android+%26+Flutter;ERP-Integrated+Distribution+Systems+(Onyx+ERP);1%2C000%2B+Codeforces+Algorithmic+Solutions;Building+Resilient%2C+High-Throughput+Mobile+Apps" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Mobile+Engineer+%7C+Android+%26+Flutter;ERP-Integrated+Distribution+Systems+(Onyx+ERP);1%2C000%2B+Codeforces+Algorithmic+Solutions;Building+Resilient%2C+High-Throughput+Mobile+Apps" alt="Typing SVG" />
     </a>
   </p>
 
@@ -105,7 +105,7 @@ Proven track record of engineering offline-first, crash-resilient architectures 
 #### 🔹 **Android Developer Intern** — *The Chance*
 `Feb 2023 — Oct 2023` | *Internship*
 * Built and optimized native Android apps in Kotlin and Java adopting **MVVM** and **Clean Architecture**.
-* Integrated enterprise REST APIs in collaboration with senior engineers, architected offline-first caching via **Room Database**, and improved responsiveness using asynchronous Kotlin Coroutines.
+* Integrated enterprise REST APIs in collaboration with engineers, architected offline-first caching via **Room Database**, and improved responsiveness using asynchronous Kotlin Coroutines.
 * *Tech*: `Kotlin` · `Java` · `MVVM` · `Room Database` · `Material Design` · `REST APIs` · `Coroutines`
 
 ---
@@ -250,7 +250,7 @@ Proven track record of engineering offline-first, crash-resilient architectures 
 ### 📬 Direct Comms & Channels
 
 <div align="center">
-  <p>Available for senior mobile engineering roles, enterprise consulting, and high-impact contract quests.</p>
+  <p>Available for mobile engineering roles, enterprise consulting, and high-impact contract quests.</p>
 
   <a href="mailto:mohamedemad199912@gmail.com">
     <img src="https://img.shields.io/badge/Email-mohamedemad199912@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
