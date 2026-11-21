@@ -2,7 +2,7 @@
 
   <!-- Native SVG Header (Host in your repo as ./header.svg for 100% uptime & zero broken links) -->
   <a href="https://mohamedemad7299.github.io">
-    <img src="./header.svg" width="100%" alt="Mohamed Emad - Senior Mobile Engineer"/>
+    <img src="./header.svg" width="100%" alt="Mohamed Emad - Mobile Engineer"/>
   </a>
 
   <!-- Dynamic Typing Title -->
