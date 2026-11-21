@@ -70,6 +70,7 @@ Mobile developer with **3+ years of experience** building Android and Flutter ap
 - Reduced crashes by **30%** and load times by **25%** across two legacy Android distribution apps used by **200+ field agents** through bug triage, memory profiling, and performance optimization.
 - Improved Onyx ERP and Onyx IX ERP integration for order management and inventory tracking, supporting **99.5% uptime** and **more than $2M in monthly transaction volume**.
 - Delivered **12+ features** that reduced order-processing time by **25%**.
+- Built a document draft system that saved progress locally so users could resume unfinished documents after reopening the app.
 
 #### Flutter Developer — Egyptian Armed Forces
 
